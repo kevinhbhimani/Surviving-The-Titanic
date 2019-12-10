@@ -1,3 +1,7 @@
+Surviving The Titanic
+
+Authors: Kevin H. Bhimani and Trevor W. Stephens
+
 In our final project for COMP 562, we decided to use a dataset from kaggle (https://www.kaggle.com/c/titanic/data) to see if we could develop and compare two different machine learning algorithms and their effectiveness at predicting the survival of individual passengers from the Titanic. In this project, we used both logistic regression and Gaussian naive to develop two distinct models for predicting the survival of Titanic passengers. 
 
 In this project, we had two goals. The first was to compare the effectiveness of these two techniques (logistic regression and Gaussian naive Bayes) on this kind of data, and the second was to use the better model to determine what predictors best helped a passenger survive the Titanic. We did this in order to compare multiple models that we have learned this year. This class has taught us several techniques for developing machine learning models, but we wanted the opportunity to compare some of them ourselves and see what areas they excel in and fall behind.
